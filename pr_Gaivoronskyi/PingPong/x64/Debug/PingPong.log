@@ -1,0 +1,3 @@
+﻿  Snake.cpp
+C:\Users\rigan\source\repos\C++\PingPong-UDP-TCP-SFML\PingPong\Snake.cpp(101,22): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  PingPong.vcxproj -> C:\Users\rigan\source\repos\C++\PingPong-UDP-TCP-SFML\x64\Debug\PingPong.exe
